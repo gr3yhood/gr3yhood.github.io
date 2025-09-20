@@ -9,4 +9,4 @@ categories: [Blog]
  
 
 
-![My First Image](/assets/lib/img/hello-world.jpg)
+![My First Image](/assets/img/hello-world.jpg)
