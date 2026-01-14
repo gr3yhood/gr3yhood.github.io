@@ -1,39 +1,51 @@
 ---
-title: "About Me"
-date: 2025-09-20 12:00:00 +0000
-layout: page
-permalink: /about/
+title: About
+icon: fas fa-user-shield
 order: 1
 ---
 
+## 👋 Hi, I’m Ben (Gr3yhood)
 
-# Hello!👋
+I’m an aspiring **penetration tester** based in **Toronto, Canada**, with a strong focus on **ethical hacking**, **red teaming**, and **security research**.
 
-My name is Ben or **Gr3yhood**, and I'm an aspiring **penetration tester** based in **Toronto, Canada**.  
-
-I’m currently on my journey through the **Hack The Box CPTS path**, sharpening my skills in ethical hacking, red teaming, and security research. 🛡️💻  
-
-I love exploring new vulnerabilities, breaking things safely, and learning how to defend systems from attacks.  
+I’m currently progressing through the **Hack The Box CPTS path**, building real-world skills in attacking and defending modern systems. I enjoy breaking things *safely*, understanding how vulnerabilities work, and learning how to mitigate them effectively.
 
 ---
 
-## Favorite Tool
+## 🛠️ Favorite Tool
 
-One of my favorite tools in the field has to be **Cobalt Strike**.
-
----
-
-## Goals
-
-- Complete the **CPTS, OSCP, CRTO, CWEE** certifications.  
-- Gain hands-on experience with penetration testing.
-- Contribute to the security community by writing write-ups, guides, and tutorials.  
+One of my favorite tools in offensive security is **Cobalt Strike**, especially for learning post-exploitation and adversary simulation techniques.
 
 ---
 
-## Fun Fact
+## 🎯 Goals
 
-I’m always experimenting with hardware. I have the Wifipineapple, OMG Cable, Flipper Zero, USB Rubber Ducky, Bash Bunny, LAN Turtle, WiFi Pineapple Pager (preordered), Shark Jack, Key Croc, and Packet Squirrel.
+- Complete the **CPTS, OSCP, CRTO, and CWEE** certifications  
+- Gain hands-on experience in professional penetration testing  
+- Contribute to the security community through **write-ups, guides, and tutorials**
 
 ---
 
+## 🧪 Hardware & Lab Gear
+
+- Flipper Zero  
+- WiFi Pineapple & Pineapple Pager  
+- USB Rubber Ducky  
+- Bash Bunny  
+- LAN Turtle  
+- Shark Jack  
+- Key Croc  
+- Packet Squirrel  
+- HackRF  
+
+---
+
+## 🌐 Connect With Me
+
+- **YouTube:** https://youtube.com/@gr3ysec  
+- **Instagram:** https://instagram.com/gr3ysec  
+- **TikTok:** https://tiktok.com/@gr3ysec  
+
+---
+
+> ⚠️ All content shared on this site is for **educational purposes only**.
