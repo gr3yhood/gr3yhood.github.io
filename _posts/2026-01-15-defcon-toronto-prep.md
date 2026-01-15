@@ -5,9 +5,9 @@ categories: [Blog]
 tags: [defcon, wifi, socialengineering]
 ---
 
-# Defcon Toronto Prep 👾
+# Long time no see 👾
 
-It’s been **almost 10 years** since the last time I hit a **Defcon Toronto meetup** (see photographic evidence of my *massive* 2016 forehead below). Time flies when you’re busy patching things and touching grass (allegedly).
+It’s been **almost 10 years** since the last time I hit a **Defcon Toronto meetup** (see photographic evidence of my *massive* 2016 forehead below). Time flies when you’re busy touching grass (allegedly).
 
 ![2016 Meetup](/assets/img/2016meetup.png)
 
@@ -23,7 +23,7 @@ Will this work? Who knows.
 Will it annoy people? Almost certainly.  
 That’s the threat model.
 
-To make things extra spicy, I cooked up my own payload called **Promo Spammer v1** — handcrafted, artisanal, no preservatives.
+To make things extra spicy, I cooked up my own payload called **Promo Spammer v1** handcrafted, artisanal, no preservatives.
 
 👉 **Source code:** https://github.com/gr3yhood/Promo-Spammer
 
@@ -31,4 +31,4 @@ If you see a suspicious SSID screaming my username at Defcon Toronto… no you d
 
 **TL;DR:**  
 Can’t network IRL → weaponized WiFi → touched packets instead of people.  
-Peak hacker behavior.
+Peak hacker.
