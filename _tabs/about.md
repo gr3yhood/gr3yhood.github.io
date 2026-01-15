@@ -6,29 +6,33 @@ order: 1
 
 ## 👋 Hi, I’m Ben (Gr3yhood)
 
-I’m an aspiring **penetration tester** based in **Toronto, Canada**, with a strong focus on **ethical hacking**, **red teaming**, and **security research**.
+I’m an aspiring **penetration tester** based in **Toronto, Canada**, focused on **physical pentesting**, **red teaming**, and **application security**.
 
-I’m currently progressing through the **Hack The Box CPTS path**, building real-world skills in attacking and defending modern systems. I enjoy breaking things *safely*, understanding how vulnerabilities work, and learning how to mitigate them effectively.
+I break things for a living (ethically). If it beeps, blinks, or trusts user input, I’m probably trying to mess with it *responsibly*.
+
+I’m currently grinding through the **Hack The Box CPTS path**, building real-world skills in attacking and defending modern systems. I like understanding **how stuff breaks**, *why* it breaks, and how to fix it before someone way more malicious shows up.
 
 ---
 
 ## 🛠️ Favorite Tool
 
-One of my favorite tools in offensive security is **Cobalt Strike**, especially for learning post-exploitation and adversary simulation techniques.
+One of my favorite offensive security tools is **Cobalt Strike**. Especially for learning **post-exploitation**, **adversary simulation**, and making blue teams mildly uncomfortable (in a productive way).
 
 ---
 
-## 🎯 Goals
+## 🎯 Goals (The Grindset)
 
-- Complete the **CPTS, OSCP, CRTO, and CWEE** certifications  
-- Gain hands-on experience in professional penetration testing  
-- Contribute to the security community through **write-ups, guides, and tutorials**
+- Finish the **CPTS, OSCP, CRTO, and CWEE** certifications  
+- Go on my **first professional physical pentest** (touching doors, not grass)  
+- Give back to the community with **write-ups, guides, and tutorials** so others don’t have to suffer the same way I did  
 
 ---
 
-## 🧪 Hardware & Lab Gear
+## 🧪 Some Hardware (aka my little friends)
 
-- Flipper Zero  
+Things I own that make airport security nervous:
+
+- Flipper Zero with Awok Dual Touch ESP32 
 - WiFi Pineapple & Pineapple Pager  
 - USB Rubber Ducky  
 - Bash Bunny  
@@ -38,9 +42,13 @@ One of my favorite tools in offensive security is **Cobalt Strike**, especially 
 - Packet Squirrel  
 - HackRF  
 
+Yes, they all have names. No, you can’t see the list.
+
 ---
 
 ## 🌐 Connect With Me
+
+If you see my username pop up somewhere suspicious… no you didn’t.
 
 - **YouTube:** https://youtube.com/@gr3ysec  
 - **Instagram:** https://instagram.com/gr3ysec  
@@ -48,4 +56,5 @@ One of my favorite tools in offensive security is **Cobalt Strike**, especially 
 
 ---
 
-> ⚠️ All content shared on this site is for **educational purposes only**.
+> ⚠️ All content on this site is for **educational purposes only**.  
+> If you use anything here irresponsibly, that’s on you. I’m just documenting the learning arc.
