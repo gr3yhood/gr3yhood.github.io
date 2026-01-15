@@ -1,7 +1,8 @@
 ---
 title: "Defcon Toronto Prep"
-date: 2026-01-15 10:00:00 +0000
+date: 2026-01-14 22:30:00 -0500
 categories: [Blog]
+tags: [defcon, wifi, socialengineering]
 ---
 
 # Defcon Toronto Prep 👾
