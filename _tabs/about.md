@@ -8,7 +8,7 @@ order: 1
 
 I’m an aspiring **penetration tester** based in **Toronto, Canada**, focused on **physical pentesting**, **red teaming**, and **application security**.
 
-I break things for a living (ethically). If it beeps, blinks, or trusts user input, I’m probably trying to mess with it *responsibly*.
+Im trying to break things for a living (ethically). If it beeps, blinks, or trusts user input, I’m probably trying to mess with it *responsibly*.
 
 I’m currently grinding through the **Hack The Box CPTS path**, building real-world skills in attacking and defending modern systems. I like understanding **how stuff breaks**, *why* it breaks, and how to fix it before someone way more malicious shows up.
 
